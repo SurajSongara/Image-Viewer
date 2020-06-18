@@ -1,2 +1,13 @@
 # Image-Viewer
-Image Viewer desktop Application
+<h3>Image Viewer desktop Application</h3>
+
+It is a simple desktop application based on python . It uses tkinter module of python which is used for making GUI applications.
+
+
+<h3>Installations</h3> 
+<h4>tkinter</h4>
+  pip install tkinter
+<h4>pillow</h4>
+  pip install pillow
+
+<h3>Preview</h3>

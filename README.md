@@ -11,3 +11,9 @@ It is a simple desktop application based on python . It uses tkinter module of p
   pip install pillow
 
 <h3>Preview</h3>
+
+<img src="images/output1.png">
+
+<img src="images/output2.png">
+
+<img src="images/output3.png">
